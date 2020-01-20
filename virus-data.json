@@ -1,0 +1,9 @@
+{
+  "nation": "China", 
+  "sources":[ 
+    {"city": "武汉", "number": 139, "position": [30.58333, 114.26667] , "news":""},  
+    {"city": "深圳", "number": 1, "position": [22.54554, 114.0683], "news": ""},  
+    {"city": "杭州", "number": 1, "position": [30.29365, 120.16142], "news": "http://www.zjwjw.gov.cn/art/2020/1/20/art_1202101_41763414.html"},  
+    {"city": "上海", "number": 1, "position": [31.22222, 121.45806], "news": "http://www.nhc.gov.cn/wjw/xwdt/202001/6be45fe493804bb6b96a3ed6c92ddb0f.shtml" },  
+    {"city": "北京", "number": 2, "position": [39.9075, 116.39723], "news":"" }  
+]}
