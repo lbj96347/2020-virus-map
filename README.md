@@ -17,9 +17,9 @@ How to contribute
 
 ### Update UI or other program 
 
-Please check out the following repo: [2020-virus-app](https://github.com/lbj96347/2020-virus-map)
+Please check out the following repo: [2020-virus-app](https://github.com/lbj96347/2020-new-coronavirus-live-map)
 
-您可以到这里对 UI 或者其他自动化程序进行改进（比如爬虫）: [2020-virus-app](https://github.com/lbj96347/2020-virus-map)
+您可以到这里对 UI 或者其他自动化程序进行改进（比如爬虫）: [2020-virus-app](https://github.com/lbj96347/2020-new-coronavirus-live-map)
 
 ### Notice 
 
