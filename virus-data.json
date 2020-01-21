@@ -77,6 +77,13 @@
       "number": 2,
       "position": [38.34, 116.43],
       "news": "http://www.bjd.com.cn/a/202001/21/WS5e26d002e4b0e6e58393af35.html"
+    },
+    {
+      "city": "贵阳",
+      "confirmed": false,
+      "number": 1,
+      "position": [26.644772, 106.634280],
+      "news": "http://wsjkj.guiyang.gov.cn/tzgg/202001/t20200121_44328899.html"
     }
   ]
 }
