@@ -1,14 +1,82 @@
 {
-  "nation": "China", 
-  "sources":[ 
-    {"city": "武汉", "confirmed": true, "number": 198, "position": [30.58333, 114.26667] , "news":"http://wjw.wuhan.gov.cn/front/web/showDetail/2020012109083"},  
-    {"city": "深圳", "confirmed": true, "number": 8, "position": [22.54554, 114.0683], "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml"},  
-    {"city": "浙江", "confirmed": false, "number": 5, "position": [30.29365, 120.16142], "news": "http://www.zjwjw.gov.cn/art/2020/1/20/art_1202101_41763414.html"},  
-    {"city": "上海", "confirmed": true, "number": 2, "position": [31.22222, 121.45806], "news": "http://wsjkw.sh.gov.cn/xwfb/20200121/8fa3da87b0014c9db1308c76cbfe835f.html" },  
-    {"city": "珠海",  "confirmed": true,"number": 3, "position": [22.265686, 113.543001], "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml" },  
-    {"city": "湛江",  "confirmed": true,"number": 1, "position": [21.261668, 110.380635], "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml" },  
-    {"city": "惠州",  "confirmed": true,"number": 1, "position": [23.111632, 114.415118], "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml" },  
-    {"city": "青岛",  "confirmed": true,"number": 1, "position": [36.068825, 120.379745], "news": "http://www.bjnews.com.cn/news/2020/01/21/677214.html" },  
-    {"city": "四川",  "confirmed": false,"number": 1, "position": [30.659290, 104.065030], "news": "http://news.cctv.com/2020/01/21/ARTI80n3MHG2HWHJAXyr2ejo200121.shtml" },  
-    {"city": "北京", "confirmed": true, "number": 5, "position": [39.9075, 116.39723], "news":"http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200120_1619533.html" }  
-]}
+  "nation": "China",
+  "sources": [
+    {
+      "city": "武汉",
+      "confirmed": true,
+      "number": 198,
+      "position": [30.58333, 114.26667],
+      "news": "http://wjw.wuhan.gov.cn/front/web/showDetail/2020012109083"
+    },
+    {
+      "city": "深圳",
+      "confirmed": true,
+      "number": 8,
+      "position": [22.54554, 114.0683],
+      "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml"
+    },
+    {
+      "city": "浙江",
+      "confirmed": false,
+      "number": 5,
+      "position": [30.29365, 120.16142],
+      "news": "http://www.zjwjw.gov.cn/art/2020/1/20/art_1202101_41763414.html"
+    },
+    {
+      "city": "上海",
+      "confirmed": true,
+      "number": 2,
+      "position": [31.22222, 121.45806],
+      "news": "http://wsjkw.sh.gov.cn/xwfb/20200121/8fa3da87b0014c9db1308c76cbfe835f.html"
+    },
+    {
+      "city": "珠海",
+      "confirmed": true,
+      "number": 3,
+      "position": [22.265686, 113.543001],
+      "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml"
+    },
+    {
+      "city": "湛江",
+      "confirmed": true,
+      "number": 1,
+      "position": [21.261668, 110.380635],
+      "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml"
+    },
+    {
+      "city": "惠州",
+      "confirmed": true,
+      "number": 1,
+      "position": [23.111632, 114.415118],
+      "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml"
+    },
+    {
+      "city": "青岛",
+      "confirmed": true,
+      "number": 1,
+      "position": [36.068825, 120.379745],
+      "news": "http://www.bjnews.com.cn/news/2020/01/21/677214.html"
+    },
+    {
+      "city": "四川",
+      "confirmed": false,
+      "number": 1,
+      "position": [30.65929, 104.06503],
+      "news": "http://news.cctv.com/2020/01/21/ARTI80n3MHG2HWHJAXyr2ejo200121.shtml"
+    },
+    {
+      "city": "北京",
+      "confirmed": true,
+      "number": 5,
+      "position": [39.9075, 116.39723],
+      "news": "http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200120_1619533.html"
+    },
+    {
+      "city": "天津",
+      "confirmed": true,
+      "number": 2,
+      "position": [38.34, 116.43],
+      "news": "http://www.bjd.com.cn/a/202001/21/WS5e26d002e4b0e6e58393af35.html"
+    }
+  ]
+}
