@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://lbj96347.github.io/2020-virus-map/static/css/main.c51fcf10.chunk.css",
-    "main.js": "https://lbj96347.github.io/2020-virus-map/static/js/main.a0b19c0c.chunk.js",
-    "main.js.map": "https://lbj96347.github.io/2020-virus-map/static/js/main.a0b19c0c.chunk.js.map",
+    "main.css": "https://lbj96347.github.io/2020-virus-map/static/css/main.22ae4f51.chunk.css",
+    "main.js": "https://lbj96347.github.io/2020-virus-map/static/js/main.61a0d10a.chunk.js",
+    "main.js.map": "https://lbj96347.github.io/2020-virus-map/static/js/main.61a0d10a.chunk.js.map",
     "runtime-main.js": "https://lbj96347.github.io/2020-virus-map/static/js/runtime-main.7590d12d.js",
     "runtime-main.js.map": "https://lbj96347.github.io/2020-virus-map/static/js/runtime-main.7590d12d.js.map",
-    "static/js/2.fab3951b.chunk.js": "https://lbj96347.github.io/2020-virus-map/static/js/2.fab3951b.chunk.js",
-    "static/js/2.fab3951b.chunk.js.map": "https://lbj96347.github.io/2020-virus-map/static/js/2.fab3951b.chunk.js.map",
+    "static/js/2.9cd92c74.chunk.js": "https://lbj96347.github.io/2020-virus-map/static/js/2.9cd92c74.chunk.js",
+    "static/js/2.9cd92c74.chunk.js.map": "https://lbj96347.github.io/2020-virus-map/static/js/2.9cd92c74.chunk.js.map",
     "index.html": "https://lbj96347.github.io/2020-virus-map/index.html",
-    "precache-manifest.f37b04a3abbf458009426ea56c950851.js": "https://lbj96347.github.io/2020-virus-map/precache-manifest.f37b04a3abbf458009426ea56c950851.js",
+    "precache-manifest.4b876016873997234f8bf2cac7913e0c.js": "https://lbj96347.github.io/2020-virus-map/precache-manifest.4b876016873997234f8bf2cac7913e0c.js",
     "service-worker.js": "https://lbj96347.github.io/2020-virus-map/service-worker.js",
-    "static/css/main.c51fcf10.chunk.css.map": "https://lbj96347.github.io/2020-virus-map/static/css/main.c51fcf10.chunk.css.map",
-    "static/js/2.fab3951b.chunk.js.LICENSE": "https://lbj96347.github.io/2020-virus-map/static/js/2.fab3951b.chunk.js.LICENSE"
+    "static/css/main.22ae4f51.chunk.css.map": "https://lbj96347.github.io/2020-virus-map/static/css/main.22ae4f51.chunk.css.map",
+    "static/js/2.9cd92c74.chunk.js.LICENSE": "https://lbj96347.github.io/2020-virus-map/static/js/2.9cd92c74.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.7590d12d.js",
-    "static/js/2.fab3951b.chunk.js",
-    "static/css/main.c51fcf10.chunk.css",
-    "static/js/main.a0b19c0c.chunk.js"
+    "static/js/2.9cd92c74.chunk.js",
+    "static/css/main.22ae4f51.chunk.css",
+    "static/js/main.61a0d10a.chunk.js"
   ]
 }
