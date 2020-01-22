@@ -9,6 +9,14 @@ Base on China official news to pop up virus cases on map.
 
 **All rendering data are not realtime updates. Robot is in development. Will be pleased if you could join us for making contribution.**
 
+**2020-01-22 给在写爬虫的朋友两个信息**
+
+> 在本项目中，已经上传了全国所有城市的名称以及对应的经纬度坐标。存储在 `city_position.json` 文件中。
+
+> 在本项目中，已经上传了全国个地方卫生委员会网站的地址 存储在 `cities_health_commission_department_website.txt` 文件中。 
+
+更新于：2020-01-22 17:46 
+
 How to contribute 
 =============
 
