@@ -5,6 +5,10 @@ Base on China official news to pop up virus cases on map.
 
 基于中国官方新闻公布数据，绘制新型冠状病毒案例于地图上。
 
+<font color="red">目前数据非实时更新。欢迎提交 pull request。目前在编写数据爬虫中，数据来源为各地方卫生委员会网站 2020-01-22 10:43</font>
+
+<font color="red">All rendering data are not realtime updates. Robot is in development. Will be pleased if you could join us for making contribution.</font>
+
 How to contribute 
 =============
 
