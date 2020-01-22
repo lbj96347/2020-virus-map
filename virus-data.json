@@ -94,6 +94,20 @@
           "number": 1,
           "position": [34.742768, 113.631162],
           "news": "http://www.hnwsjsw.gov.cn/contents/177/47946.shtml"
+        },
+        {
+          "city": "重庆",
+          "confirmed": true,
+          "number": 5,
+          "position": [29.541124, 106.456834],
+          "news": "http://wsjkw.cq.gov.cn/tzgg/20200121/249730.html"
+        },
+        {
+          "city": "黄冈",
+          "confirmed": true,
+          "number": 12,
+          "position": [30.448686, 114.878452],
+          "news": "http://wjw.hg.gov.cn/art/2020/1/21/art_4668_892170.html"
         }
       ]
     },
