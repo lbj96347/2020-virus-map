@@ -29,9 +29,13 @@ How to contribute
 
 ### Update UI or other program 
 
-Please check out the following repo: [2020-virus-app](https://github.com/lbj96347/2020-new-coronavirus-live-map)
+Please check out the following repo to make map app better : [2020-virus-app](https://github.com/lbj96347/2020-new-coronavirus-live-map)
 
-您可以到这里对 UI 或者其他自动化程序进行改进（比如爬虫）: [2020-virus-app](https://github.com/lbj96347/2020-new-coronavirus-live-map)
+Please check out the following repo to make crawler script better : [2020-new-coronavirus-info-crawler](https://github.com/lbj96347/https://github.com/lbj96347/2020-new-coronavirus-info-crawler)
+
+您可以到这里对 UI 改进: [2020-virus-app](https://github.com/lbj96347/2020-new-coronavirus-live-map)
+
+您可以到这里对爬虫改进: [2020-new-coronavirus-info-crawler](https://github.com/lbj96347/https://github.com/lbj96347/2020-new-coronavirus-info-crawler)
 
 ### Notice 
 
