@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://lbj96347.github.io/2020-virus-map/static/css/main.4fb5c3e6.chunk.css",
-    "main.js": "https://lbj96347.github.io/2020-virus-map/static/js/main.65a264ea.chunk.js",
-    "main.js.map": "https://lbj96347.github.io/2020-virus-map/static/js/main.65a264ea.chunk.js.map",
+    "main.js": "https://lbj96347.github.io/2020-virus-map/static/js/main.549b835a.chunk.js",
+    "main.js.map": "https://lbj96347.github.io/2020-virus-map/static/js/main.549b835a.chunk.js.map",
     "runtime-main.js": "https://lbj96347.github.io/2020-virus-map/static/js/runtime-main.7590d12d.js",
     "runtime-main.js.map": "https://lbj96347.github.io/2020-virus-map/static/js/runtime-main.7590d12d.js.map",
     "static/js/2.6c64aeb4.chunk.js": "https://lbj96347.github.io/2020-virus-map/static/js/2.6c64aeb4.chunk.js",
     "static/js/2.6c64aeb4.chunk.js.map": "https://lbj96347.github.io/2020-virus-map/static/js/2.6c64aeb4.chunk.js.map",
     "index.html": "https://lbj96347.github.io/2020-virus-map/index.html",
-    "precache-manifest.dfd05dc98fc2f5c7379efdcba43245c6.js": "https://lbj96347.github.io/2020-virus-map/precache-manifest.dfd05dc98fc2f5c7379efdcba43245c6.js",
+    "precache-manifest.95120175afab7693af3633d1ff04e92c.js": "https://lbj96347.github.io/2020-virus-map/precache-manifest.95120175afab7693af3633d1ff04e92c.js",
     "service-worker.js": "https://lbj96347.github.io/2020-virus-map/service-worker.js",
     "static/css/main.4fb5c3e6.chunk.css.map": "https://lbj96347.github.io/2020-virus-map/static/css/main.4fb5c3e6.chunk.css.map",
     "static/js/2.6c64aeb4.chunk.js.LICENSE": "https://lbj96347.github.io/2020-virus-map/static/js/2.6c64aeb4.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7590d12d.js",
     "static/js/2.6c64aeb4.chunk.js",
     "static/css/main.4fb5c3e6.chunk.css",
-    "static/js/main.65a264ea.chunk.js"
+    "static/js/main.549b835a.chunk.js"
   ]
 }
