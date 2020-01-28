@@ -1,0 +1,19 @@
+{
+  "updateTimestamp": "2020-01-21 12:30",
+  "data": [ 
+    {
+      "nation": "China", 
+      "sources":[ 
+        {"cityName": "武汉", "confirmedCount": 139, "position": [30.58333, 114.26667] , "news":"http://news.cctv.com/2020/01/20/ARTIk0NQ1sPxUoRreJRx9i63200120.shtml"},  
+        {"cityName": "深圳", "confirmedCount": 8, "position": [22.54554, 114.0683], "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml"},  
+        {"cityName": "杭州", "confirmedCount": 1, "position": [30.29365, 120.16142], "news": "http://www.zjwjw.gov.cn/art/2020/1/20/art_1202101_41763414.html"},  
+        {"cityName": "温州", "confirmedCount": 1, "position": [27.993800, 120.699400], "news": "http://www.zjwjw.gov.cn/art/2020/1/20/art_1202101_41763414.html"},  
+        {"cityName": "舟山", "confirmedCount": 1, "position": [29.985225, 122.207006], "news": "http://www.zjwjw.gov.cn/art/2020/1/20/art_1202101_41763414.html"},  
+        {"cityName": "台州", "confirmedCount": 1, "position": [28.656960, 121.421242], "news": "http://www.zjwjw.gov.cn/art/2020/1/20/art_1202101_41763414.html"},  
+        {"cityName": "上海", "confirmedCount": 1, "position": [31.22222, 121.45806], "news": "http://www.nhc.gov.cn/wjw/xwdt/202001/6be45fe493804bb6b96a3ed6c92ddb0f.shtml" },  
+        {"cityName": "珠海", "confirmedCount": 3, "position": [22.265686, 113.543001], "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml" },  
+        {"cityName": "湛江", "confirmedCount": 1, "position": [21.261668, 110.380635], "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml" },  
+        {"cityName": "惠州", "confirmedCount": 1, "position": [23.111632, 114.415118], "news": "http://news.cctv.com/2020/01/20/ARTICIB9tLrvyl0wze6b2iYK200120.shtml" },  
+        {"cityName": "北京", "confirmedCount": 2, "position": [39.9075, 116.39723], "news":"http://news.cctv.com/2020/01/20/ARTI3EPgGClScJr6CUTBvtbG200120.shtml" }  
+    ]}
+]}
